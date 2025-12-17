@@ -1,2 +1,9 @@
-/data
+/data/train/complete_dataset
+/data/validation/images/crazing
+/data/validation/images/inclusion
+/data/validation/images/patches
+/data/validation/images/pitted_surface
+/data/validation/images/rolled-in_scale
+/data/validation/images/scratches
 /docs
+*.zip
